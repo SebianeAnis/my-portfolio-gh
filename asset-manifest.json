@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/SebianeAnis/my-portfolio-gh/static/css/main.c0492b6c.css",
+    "main.js": "/SebianeAnis/my-portfolio-gh/static/js/main.71cacc14.js",
+    "static/js/415.4d6acbeb.chunk.js": "/SebianeAnis/my-portfolio-gh/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/SebianeAnis/my-portfolio-gh/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/SebianeAnis/my-portfolio-gh/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/SebianeAnis/my-portfolio-gh/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/SebianeAnis/my-portfolio-gh/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/SebianeAnis/my-portfolio-gh/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/SebianeAnis/my-portfolio-gh/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/SebianeAnis/my-portfolio-gh/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/SebianeAnis/my-portfolio-gh/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/SebianeAnis/my-portfolio-gh/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/SebianeAnis/my-portfolio-gh/static/media/Soumyajit_Behera-BIT_MESRA.f31c00c0623443fc6fa3.pdf",
+    "static/media/home-bg.jpg": "/SebianeAnis/my-portfolio-gh/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/SebianeAnis/my-portfolio-gh/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/SebianeAnis/my-portfolio-gh/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/SebianeAnis/my-portfolio-gh/index.html",
+    "main.c0492b6c.css.map": "/SebianeAnis/my-portfolio-gh/static/css/main.c0492b6c.css.map",
+    "main.71cacc14.js.map": "/SebianeAnis/my-portfolio-gh/static/js/main.71cacc14.js.map",
+    "415.4d6acbeb.chunk.js.map": "/SebianeAnis/my-portfolio-gh/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/SebianeAnis/my-portfolio-gh/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0492b6c.css",
+    "static/js/main.71cacc14.js"
+  ]
+}
